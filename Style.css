@@ -1,0 +1,75 @@
+.jumbotron {
+  text-align: center;
+  background-image: url("Assets/christine-roy-ir5MHI6rPg0-unsplash.jpg");
+}
+
+.nav {
+  font-weight: bold;
+  border-radius: 10px;
+}
+h5 {
+  font-family: "Calligraffitti", cursive;
+  font-size: 50px;
+}
+#main {
+  padding: 0;
+  margin: 0 auto;
+  font-family: arial;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+#worldUP {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  height: 1000px;
+}
+
+#middle-panel {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: #c6c6c6;
+  overflow: visible;
+}
+
+.aWrapper {
+  top: -30px;
+  position: relative;
+}
+
+#middle-panel-inner-div {
+  padding: 0;
+  margin: 0 auto;
+  width: 90%;
+  /* top: -30px */
+  /* position: relative */
+  margin-bottom: -30px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.red-box-and-label {
+  padding: 0;
+  margin: 0;
+  width: 25%;
+  text-align: center;
+}
+
+.red-box {
+  padding: 10px 0;
+  margin: 0 auto;
+  width: 65px;
+  height: px;
+  background-color: #fcfbfb;
+  text-align: center;
+}
+
+.box-label {
+  padding: 0;
+  margin: 6px 0 0 0;
+  width: 100%;
+  text-align: center;
+}
